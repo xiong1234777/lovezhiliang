@@ -1,0 +1,3 @@
+签名文件: aizhiliang.jks
+别名:azl
+密码:zxh199501
